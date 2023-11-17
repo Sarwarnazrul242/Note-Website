@@ -15,3 +15,14 @@ Welcome to my Python-based note-taking website, crafted to provide a secure and 
 - **Powered by Python:** Built with Python, this website offers a dependable and efficient platform for your note-taking needs.
 
 Whether for academic, professional, or personal use, this note website serves as a convenient tool to keep your thoughts organized and accessible.
+
+
+# Sign-Up Page
+![image](https://github.com/Sarwarnazrul242/Note-Website/assets/116752469/b0157182-001f-484b-98af-6d34bd21596f)
+
+# Note-Taking Section
+![image](https://github.com/Sarwarnazrul242/Note-Website/assets/116752469/b8884e4a-032f-44bb-a8b5-99a436a72edb)
+
+# Login Section
+<img width="572" alt="image" src="https://github.com/Sarwarnazrul242/Note-Website/assets/116752469/69f19990-ebc3-4d9b-836b-ede9da7a6acb">
+
